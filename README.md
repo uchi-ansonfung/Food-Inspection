@@ -109,7 +109,8 @@ Section Three details this paper’s research design—the results of which are
 discussed in Section Four. Section Five concludes with limitations and explores
 opportunities for further analyses.
 
-# GitHub Files
+# Published Files
 - Full Analysis PDF
 - Scripts
 - Output/Graphs
+- [Map of Locations]("https://www.google.com/maps/d/u/0/edit?mid=1jB7yBOIIz3ZVT9KmVkxuT3u5npSGRtTD&usp=sharing")
