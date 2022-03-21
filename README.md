@@ -113,4 +113,3 @@ opportunities for further analyses.
 - Full Analysis PDF
 - Scripts
 - Output/Graphs
-- [Map of Locations](https://www.google.com/maps/d/u/0/edit?mid=1jB7yBOIIz3ZVT9KmVkxuT3u5npSGRtTD&usp=sharing) *(Not all restaruants included)*
